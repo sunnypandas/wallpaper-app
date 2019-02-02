@@ -30,7 +30,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Authors
 
-* **sppsun** - *Initial work* - [PurpleBooth](https://github.com/sppsun)
+* **sppsun** - *Initial work* - [sppsun](https://github.com/sppsun)
 
 ## License
 
