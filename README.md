@@ -6,6 +6,7 @@ A react native app based on expo, dva, react-native-elements, shoutem UI, etc.
 
 A react native app based on expo, dva, react-native-elements, shoutem UI, etc. We provided a demo for wallpaper development.
 
+
 ### Prerequisites
 
 ```
