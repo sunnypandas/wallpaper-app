@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "壁纸之家",
+    "slug": "wallpaperhome",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "packagerOpts": {
+      "nonPersistent": "--nonPersistent"
+    },
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.2.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/images/icon.png",
+    "splash": {
+      "image": "./src/assets/images/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "top.skysoft.wallpaper",
+      "buildNumber": "1.2.0"
+    },
+    "android": {
+      "package": "top.skysoft.wallpaper",
+      "versionCode": 2
+    },
+    "description": ""
+  }
+}
