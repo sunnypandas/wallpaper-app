@@ -4,16 +4,15 @@ A react native app based on expo, dva, react-native-elements, shoutem UI, etc.
 
 ## Getting Started
 
-git clone 
+git clone https://github.com/sppsun/wallpaper-app.git
 npm install
 npm start
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
 ```
-Give examples
+nodejs
+expo
 ```
 
 ### Installing
